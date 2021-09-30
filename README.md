@@ -22,9 +22,10 @@ Para que você possa rodar o projeto em sua máquina é necessário ter algumas 
 - [x] Páginas responsivas
 - [x] Avisos em tela para o usuário
 - [x] Validação de CPF
-- [x] Página de E-mail
+- [x] Validação de E-mail
 - [x] Utilizando Local Storage
 - [x] Feito com React
+- [ ] Validação de Número de telefone
 - [ ] Código limpo e organizado
 - [ ] Testes
 - [ ] Página de edição de cliente
